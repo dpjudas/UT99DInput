@@ -1,0 +1,6 @@
+LIBRARY
+
+EXPORTS
+	DirectInputCreateA @1
+	DirectInputCreateW @2
+	DirectInputCreateEx @3
